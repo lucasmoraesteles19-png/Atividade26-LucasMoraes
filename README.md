@@ -47,5 +47,5 @@ ETEC Alberto Santos Dumont | Informática (1MI)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:90E0EF&height=100&section=footer" width="100%"/>
 d
 **🚀 Aprendendo, praticando e evoluindo através do código!**
- s
+ 
 </div>
